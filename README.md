@@ -29,7 +29,21 @@ This repository serves as a playground for experimenting with Python, machine le
 
 ## Contributing
 
-We welcome contributions from the community to enrich this repository with additional examples, tutorials, and resources. Whether you're fixing a bug, improving documentation, or adding new features, your contributions are highly appreciated. Please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to contribute.
+We welcome contributions from the community to enrich this repository with additional examples, tutorials, and resources. Whether you're fixing a bug, improving documentation, or adding new features, your contributions are highly appreciated.
+
+Please follow these guidelines when contributing:
+
+1. Fork the repository and clone it to your local machine.
+2. Create a new branch for your feature or bug fix: `git checkout -b feature/your-feature-name`.
+3. Make your changes and ensure that the code is properly formatted.
+4. Write tests for your changes to ensure they work as expected.
+5. Commit your changes with a descriptive commit message: `git commit -m "Add your message here"`.
+6. Push to the branch: `git push origin feature/your-feature-name`.
+7. Submit a pull request detailing the changes you've made and why they are necessary.
+
+By contributing to this repository, you agree to license your contributions under the same license as this project.
+
+If you have any questions or need assistance with the contribution process, feel free to open an issue or reach out to the maintainers. We appreciate your contributions!
 
 ## Support
 
@@ -37,7 +51,7 @@ If you encounter any issues, have questions, or need assistance, feel free to op
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [MIT License](https://opensource.org/license/mit)
 
 ---
 
