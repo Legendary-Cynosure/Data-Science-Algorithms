@@ -41,4 +41,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Start your journey into Python machine learning and predictive modeling with SAP HANA PAL today! Join us as we explore the fascinating intersection of data science, Python programming, and SAP HANA technology.
+Developed by Alexander Le, for Bay Valley Tech. Advised by Martyn C. 2024.
